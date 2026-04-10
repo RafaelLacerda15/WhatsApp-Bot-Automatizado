@@ -1,4 +1,4 @@
-# 🤖 WhatsApp Bot Automatizado – Flask + Evolution API
+# 🤖 WhatsApp Bot Automatizado – Flask + Evolution API (Ello's Brand)
 
 **Bot inteligente para WhatsApp** que automatiza envios em massa, gerencia conversas interativas e rastreia respostas em tempo real.
 
