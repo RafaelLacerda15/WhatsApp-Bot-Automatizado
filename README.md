@@ -49,4 +49,5 @@ cp .env.example .env
 docker-compose up -d
 
 # 4. Acesse
-# Dashboard → http://localhost:5000
+Dashboard: http://localhost:5000
+Evolution API: http://localhost:8080
